@@ -45,7 +45,7 @@ def FD():
     print(' [2] EXIT')
     opt = input('\n  \x1b[1;32m Choose option >>> ')
     if opt == '1':
-        os.system('xdg-https://www.facebook.com/horny.lover.xxx1' )
+        os.system('xdg-https://www.facebook.com/PiccHi.voice.king.off.ariyan' )
         o()
         return None
     None('\n\x1b[1;31mEXIT\x1b[0;97m')
@@ -175,7 +175,7 @@ today = date.today()
 logo =                                          ("""   
 
                                        
-████╗ ██████╗ ██╗██╗   ██╗ █████╗ ███╗       ██╗
+████╗ ██████╗ ██╗██╗   ██╗ █████╗ ███╗      ██╗
 ██╔══██╗██╔══██╗██║╚██╗ ██╔╝██╔══██╗████╗  ██║
 ███████║██████╔╝██║ ╚████╔╝ ███████║██╔██╗ ██║
 ██╔══██║██╔══██╗██║  ╚██╔╝  ██╔══██║██║╚██╗██║
@@ -189,7 +189,7 @@ logo =                                          ("""
 \033[1;32m     \033[1;32mFACEBOK      : \033[1;34m AriyA'n SiN'gg 
 \033[1;32m     \033[1;35mYoutube       :  \033[1;35mAriyan Ahmed Nazmul
 \033[1;32m     \033[1;36mTOOL STATUS  :  \033[1;36mTOOL IS FREE
-\033[1;32m     \033[1;35mTEAM         :  \033[1;35mToxic Snigho
+\033[1;32m     \033[1;35mReal Facebook account         :  \033[1;35mAriyan Ahmed Nazmul
 \033[1;32m     \033[1;36mTOOL VIRSION :  \033[1;36m2.4
 \033[1;37m================= \33[32;45mMR\33[0;m =====================
  
